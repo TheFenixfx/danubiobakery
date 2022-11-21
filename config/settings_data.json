@@ -9,6 +9,12 @@
     "colors_background_2": "#F3F3F3",
     "type_header_font": "libre_baskerville_n4",
     "type_body_font": "libre_baskerville_n4",
+    "favicon": "shopify:\/\/shop_images\/E_de_Evelia.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/evelia-logo.png",
+    "checkout_logo_position": "center",
+    "checkout_accent_color": "#e22120",
+    "checkout_button_color": "#e22120",
+    "checkout_error_color": "#f9b508",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
