@@ -1,1 +1,87 @@
-{"sections":{"main":{"type":"main-blog","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "disabled": true,
+      "settings": {
+        "layout": "collage",
+        "show_image": true,
+        "image_height": "medium",
+        "show_date": true,
+        "show_author": false
+      }
+    },
+    "32d325f2-5b85-463a-90b3-ebd18fc073b4": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16670744707310__32d325f2-5b85-463a-90b3-ebd18fc073b4-1669130302299a9173-0": {
+          "type": "column",
+          "settings": {
+            "title": "Pastelería Evelia, un nombre que evoca calidad y tradición",
+            "text": "<p>Evelia representa un compendio de sabores, aromas y texturas que evoca una rica historia de calidad y tradición. Sus apetitosas recetas, la frescura de sus productos, su esmerado servicio y acogedor espacio son reflejo del esfuerzo y la tenacidad de la familia fundadora, los Kerese, cuyas preparaciones despiertan la alegría de los paladares venezolanos desde hace cuatro décadas en Pastelería Danubio.<\/p><p><\/p>"
+          }
+        },
+        "template--16670744707310__32d325f2-5b85-463a-90b3-ebd18fc073b4-1669130302299a9173-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sra-evelia-amaya-de-kerese.jpg",
+            "title": "",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16670744707310__32d325f2-5b85-463a-90b3-ebd18fc073b4-1669130302299a9173-0",
+        "template--16670744707310__32d325f2-5b85-463a-90b3-ebd18fc073b4-1669130302299a9173-2"
+      ],
+      "settings": {
+        "title": "Nosotros",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "a0655c76-f01e-4adf-992e-0c6ea868e97f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16670744707310__a0655c76-f01e-4adf-992e-0c6ea868e97f-1669130302299a9173-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Venezuela en donde aún operan sus sedes. El emprendedor Pal era un inmigrante húngaro que había arribado a Venezuela en 1948, huyendo de la segunda Guerra Mundial. La voluntariosa Evelia provenía del Estado Táchira, y trabajaba en Caracas desde los 14 años de edad.<\/p><p>Ambos se enamoraron cuando laboraban en una famosa pastelería francesa, a finales de los años cuarenta.<\/p><p>Pal bautizó a la incipiente pastelería en homenaje al río que baña su ciudad natal, Budapest. Junto a su esposa y a sus dos primeros hijos, Alejandro y Pablo, comenzaron a elaborar en un principio recetas de tradición europea hasta que poco a poco fueron incorporando platos característicos de la cocina venezolana. Hoy en día, la variedad distingue la oferta de Danubio, ha sido trasladada a Evelia: desde el cachito de jamón del desayuno hasta las crujientes tartaletas con humeante café con leche que animan las meriendas a media tarde.<\/p><p>El establecimiento es atendido por la familia Kerese, herederos de los valores y el amor al trabajo de Pal Kerese.<\/p><p>Danubio y Evelia no conocen de franquicias. Si algún secreto han sabido guardar bien los Kerese es el éxito del negocio familiar. “Danubio es como nuestra casa. Para nosotros ir al trabajo no es ningún sacrificio”, afirma Evelia con orgullo.<\/p><p>Mantener la calidad es la fórmula más preciada de Danubio y Evelia. Todos los platos son preparados al día con los mejores productos. Por algo, el encanto familiar de su recetario ha permanecido inalterable desde hace 50 años.Todo comenzó en 1970, cuando Pal Kerese y su esposa Evelia adquieren un pequeño negocio en la ciudad de Caracas, <\/p>"
+          }
+        },
+        "template--16670744707310__a0655c76-f01e-4adf-992e-0c6ea868e97f-1669130302299a9173-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16670744707310__a0655c76-f01e-4adf-992e-0c6ea868e97f-1669130302299a9173-0",
+        "template--16670744707310__a0655c76-f01e-4adf-992e-0c6ea868e97f-1669130302299a9173-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "32d325f2-5b85-463a-90b3-ebd18fc073b4",
+    "a0655c76-f01e-4adf-992e-0c6ea868e97f"
+  ]
+}
