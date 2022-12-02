@@ -42,28 +42,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Pastelería Evelia, un nombre que evoca calidad y tradición",
             "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Conócenos",
+            "button_link": "shopify:\/\/blogs\/news",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading",
-        "text",
         "button"
       ],
       "settings": {
@@ -74,7 +67,7 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Los más solicitados",
         "collection": "all",
         "products_to_show": 4,
         "show_view_all": true,
@@ -89,6 +82,7 @@
     },
     "multi_column": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
